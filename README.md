@@ -1,2 +1,3 @@
-# mash
-M.A.S.H
+# M.A.S.H
+
+Making Alternative Solutions Happen
